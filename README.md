@@ -1,4 +1,3 @@
-Aquí está el README completo listo para copiar y pegar:
 # 📡 TelecomX LATAM — Análisis de Evasión de Clientes (Churn)
 
 > Challenge de Data Science | Alura LATAM
