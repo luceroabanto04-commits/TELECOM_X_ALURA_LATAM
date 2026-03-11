@@ -1,9 +1,5 @@
 # 📡 TelecomX LATAM — Análisis de Evasión de Clientes (Churn)
 
-> Challenge de Data Science | Alura LATAM
-
----
-
 ## 📋 Descripción del Proyecto
 
 Este proyecto analiza el comportamiento de los clientes de **TelecomX**, una empresa de telecomunicaciones en Latinoamérica, con el objetivo de identificar los factores que influyen en el **abandono del servicio (churn)** y proponer estrategias de retención.
@@ -23,11 +19,7 @@ Identificar los factores que influyen en el abandono de clientes de TelecomX y p
 ```
 TelecomX_LATAM/
 │
-├── TelecomX_LATAM.ipynb           # Notebook principal con el análisis completo
-├── grafico_evasion_cliente.jpg    # Gráfico de distribución de churn
-├── grafico_porcentajes.jpg        # Churn por variables categóricas
-├── grafico_evasion_varnumeric.jpg # Churn por cargos totales
-├── grafico_abandono.jpg           # Tasa de abandono por antigüedad
+├── TelecomX_LATAM.ipynb
 └── README.md
 ```
 
